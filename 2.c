@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	int i,j,n;
-	scanf("%d",&n);
+	int i,j;
+        float n;
+	scanf("%f",&n);
 	for(i=1;i<=n;i++)
 	{
 		for(j=1;j<=n;j++)
